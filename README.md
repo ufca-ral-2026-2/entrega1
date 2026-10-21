@@ -4,7 +4,7 @@ Disciplina: Raciocínio Automatizado via Lógica
 Professor: Luis Henrique Bustamante de Morais  
 UFCA — Ciência da Computação
 
-**Prazo: terça-feira, 10/11/2026.** Será avaliado o último commit na branch
+**Prazo: sábado, 14/11/2026.** Será avaliado o último commit na branch
 `main` do seu repositório até o fim desse dia.
 
 ---
@@ -18,14 +18,13 @@ UFCA — Ciência da Computação
 2. Em *Owner*, escolha a sua conta. Dê o nome `ral-solver-<sua-matrícula>`.
 3. Marque **Private** e clique em **Create repository**.
 4. No seu repositório: **Settings → Collaborators → Add people** e adicione
-   `lhbusta` (o professor).
+   o usuário `bustamante` (o professor).
 5. Clone o seu repositório e trabalhe nele:
    ```bash
    git clone https://github.com/<seu-usuario>/ral-solver-<sua-matrícula>.git
    ```
 
-As entregas seguintes (CDCL e CDCL(T)) estendem este mesmo código, então
-continue usando o mesmo repositório até o fim da disciplina.
+As entregas seguintes (CDCL e CDCL(T)) estendem este mesmo código, então continue usando o mesmo repositório até o fim da disciplina.
 
 ---
 
